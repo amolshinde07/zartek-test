@@ -53,7 +53,7 @@ class _AuthenticationScreenState extends State<AuthenticationScreen> {
             Icon(Icons.airline_seat_legroom_reduced),
             Flexible(child: Text(personNextToMe,softWrap: true,)),
             Icon(Icons.airline_seat_legroom_reduced),
-          ]);
+          ])
           ],
         ),
       ),
